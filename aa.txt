@@ -1,3 +1,4 @@
 一回目+1 ブランチ 2回目
 homePC 変更+2
 branch sample
+add 変更をインデックスに登録する
